@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
+  "stickers" : [
+    {
+      "filename" : "SocialentStickerTitle.sticker"
+    },
+    {
+      "filename" : "SocialentStickerLogo.sticker"
+    },
+    {
+      "filename" : "SocialentStickerVerifiedLogo.sticker"
+    },
+    {
+      "filename" : "SocialentStickerScaryTitle.sticker"
+    }
+  ]
+}
